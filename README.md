@@ -4,7 +4,7 @@ Repositório dedicado às atividades e projetos da matéria de **Programação W
 
 ## 📚 Sobre o Repositório
 
-Este repositório contém todos os exercícios, atividades práticas e projetos desenvolvidos durante o curso de Programação Web. Aqui você encontrará exemplos de código, documentação e soluções para os desafios propostos.
+Este repositório contém todos os exercícios, atividades práticas e projetos desenvolvidos durante a matéria de Programação Web. Aqui você encontrará exemplos de código, documentação e soluções para os desafios propostos.
 
 ## 🎯 Objetivos da Disciplina
 
@@ -41,7 +41,6 @@ Programa-o-web---Atividades/
 - **HTML5** - Estrutura
 - **CSS3** - Estilização
 - **JavaScript (ES6+)** - Interatividade
-- **[Adicione outras tecnologias conforme necessário]**
 
 ## 📝 Atividades
 
@@ -96,15 +95,11 @@ xdg-open index.html # Linux
 
 ## 📅 Período
 
-Semestre: [Adicione o semestre/ano]
+Semestre: [4°/2026]
 
 ## 📞 Contato
 
 - GitHub: [@Vinicios77](https://github.com/Vinicios77)
-
-## 📄 Licença
-
-Este projeto está sob a licença [MIT/GPL/Outra - escolha a licença apropriada].
 
 ---
 
