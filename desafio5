@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            background-color: #0f172a;
+            color: white;
+            padding: 20px 50px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 40px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            color: lightskyblue;
+        }
+
+        .destaque {
+            background-color: #0f172a;
+            padding: 70px 70px;
+            text-align: center;
+        }
+
+        .destaque h1 {
+            font-size: 36px;
+            margin-bottom: 10px;
+            color: white;
+        }
+
+        .destaque p {
+            font-size: 20px;
+            color: white;
+        }
+
+        .destaque button {
+            background-color: #0284c7;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 18px;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #3730a3;
+            /* Azul mais escuro quando passa o mouse */
+        }
+
+        section {
+            background-color: #0f172a;
+            padding: 70PX 70PX;
+            display: flex;
+            justify-content: center;
+            gap: 50px;
+        }
+
+        .card {
+            background-color: aliceblue;
+            padding: 100px 100px;
+            border: 1px solid #cbd5e1;
+            border-radius: 10px;
+            width: 300%;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            ;
+        }
+
+        footer {
+            background-color: #0f172a;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h2>Mini landing page</h2>
+        <nav>
+            <ul>
+                <A href="#"> Inicio </A></li>
+                <A href="#"> Serviços </A></li>
+                <A href="#"> SAC </A></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="destaque">
+        <h1>Bem-vindo!</h1>
+        <p>Primeiros desencolvimentos com CSS e HTML.</p>
+        <button>começar</button>
+    </div>
+
+    <section>
+        <div class="card">
+            <h3>CARD1</h3>
+            <p>Primeiro item do site</p>
+        </div>
+
+        <div class="card">
+            <h3>CARD2</h3>
+            <p>Segundo item do site</p>
+        </div>
+
+        <div class="card">
+            <h3>CARD3</h3>
+            <p>Terceiro item do site</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 - developed by Vinicio Dos Santos Martins </p>
+    </footer>
+</body>
+
+</html>
