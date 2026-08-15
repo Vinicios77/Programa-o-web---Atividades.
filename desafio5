@@ -67,7 +67,6 @@
 
         button:hover {
             background-color: #3730a3;
-            /* Azul mais escuro quando passa o mouse */
         }
 
         section {
