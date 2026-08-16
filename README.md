@@ -45,7 +45,7 @@ Programa-o-web---Atividades/
 ## 📝 Atividades
 
 ### HTML e CSS
-- [ ] Atividade 01 - Estrutura básica HTML
+- [✔️] Atividade 01 - Estrutura básica HTML
 - [ ] Atividade 02 - Estilização com CSS
 - [ ] Atividade 03 - Layout responsivo
 - [ ] Atividade 04 - Projeto integrado
