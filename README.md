@@ -103,6 +103,6 @@ Semestre: [4°/2026]
 
 ---
 
-**Última atualização:** Julho de 2026
+**Última atualização:** Setembro de 2026
 
 *Este README será atualizado conforme o andamento da disciplina.*
