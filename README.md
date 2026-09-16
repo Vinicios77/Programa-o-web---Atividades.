@@ -47,12 +47,11 @@ Programa-o-web---Atividades/
 ### HTML e CSS
 - [✔️] Atividade 01 - Estrutura básica HTML
 - [✔️] Atividade 02 - Estilização com CSS
-- [✔️] Atividade 03 - Lógica Java Script
-- [ ] Atividade 04 - Layout responsivo
-- [ ] Atividade 05 - Projeto integrado
+- [ ] Atividade 03 - Layout responsivo
+- [ ] Atividade 04 - Projeto integrado
 
 ### JavaScript
-- [ ] Atividade 01 - Fundamentos JS
+- [✔️] Atividade 01 - Fundamentos JS
 - [ ] Atividade 02 - DOM e Eventos
 - [ ] Atividade 03 - APIs e Fetch
 - [ ] Atividade 04 - Aplicação completa
