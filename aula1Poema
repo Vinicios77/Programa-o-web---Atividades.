@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>aula 01</title>
+</head>
+
+<body bgcolor="red">
+    <h1>aula 01</h1>
+
+    <h2>Hino do maior time do Brasil</h2>
+
+    <div style="background-color: rgba(0, 0, 0, 0.158);">
+        <style>
+            p {
+                font-size: 30px;
+                margin-buttom: 20px;
+            }
+        </style>
+        <p1>
+            Uma vez Flamengo<br>
+            Sempre Flamengo<br>
+            Flamengo sempre eu hei de ser<br>
+            <br>
+            É meu maior prazer vê-lo brilhar<br>
+            Seja na terra, seja no mar<br>
+            Vencer, vencer, vencer<br>
+            <br>
+            Uma vez Flamengo<br>
+            Flamengo até morrer<br>
+            Na regata, ele me mata<br>
+            Me maltrata, me arrebata<br>
+            Que emoção no coração<br>
+            Consagrado no gramado<br>
+            Sempre amado, o mais cotado<br>
+            No Fla-Flu é o: Ai, Jesus!<br>
+            <br>
+            Eu teria um desgosto profundo<br>
+            Se faltasse o Flamengo no mundo<br>
+            Ele vibra, ele é fibra<br>
+            Muita libra já pesou<br>
+            Flamengo até morrer eu sou<br>
+            <br>
+            Uma vez Flamengo<br>
+            Sempre Flamengo<br>
+            Flamengo sempre eu hei de ser<br>
+            <br>
+            É meu maior prazer vê-lo brilhar<br>
+            Seja na terra, seja no mar<br>
+            Vencer, vencer, vencer<br>
+            <br>
+            Uma vez Flamengo<br>
+            Flamengo até morrer<br>
+            <br>
+            Na regata, ele me mata<br>
+            Me maltrata, me arrebata<br>
+            Que emoção no coração<br>
+            Consagrado no gramado<br>
+            Sempre amado, o mais cotado<br>
+            No Fla-Flu é o: Ai, Jesus!<br>
+            <br>
+            Eu teria um desgosto profundo<br>
+            Se faltasse o Flamengo no mundo<br>
+            Ele vibra, ele é fibra<br>
+            Muita libra já pesou<br>
+            Flamengo até morrer eu sou<br>
+
+        </p1>
+    </div>
+</body>
+
+</html>

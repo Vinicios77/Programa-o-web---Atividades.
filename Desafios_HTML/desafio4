@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body h1{
+            text-align: center;  
+        }
+        body{
+            font-family: Arial, sans-serif;
+            background-color: darkslategrey;
+        }
+
+        .gallery {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        .imagem img {
+            width: 150px ;
+            border-radius: 10px ;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Galeria de fotos</h1>
+    <div class="gallery">
+        <div class="imagem">
+            <img src="supra.jpg" alt="supra" width="100">
+            <p>Supra</p>
+        </div>
+
+        <div class="imagem">
+            <img src="bmw.jpg" alt="bmw" width="100">
+            <p>BMW</p>
+        </div>
+
+        <div class="imagem">
+            <img src="350z.webp" alt="350z" width="100">
+            <p>350z</p>
+        </div>
+
+        <div class="imagem">
+            <img src="Mazda.webp" alt="mazda" width="100">
+            <p>Mazda RX-7</p>
+        </div>
+    </div>
+</body>
+
+</html>

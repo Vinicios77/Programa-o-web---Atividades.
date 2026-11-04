@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 24px;
+        }
+
+        ul,
+        ol {
+            font-size: 18px;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+        }
+
+        img {
+            width: 100%;
+            max-width: 500%;
+            height: auto;
+
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Brigadeiro Tradicional Brasileiro</h1>
+    <img src="receita.png" alt="minha receita">
+    <ul>
+        <li>1 lata de leite condensado</li>
+        <li>1 colher (sopa) de manteiga (sem sal)</li>
+        <li>3 colheres (sopa) de chocolate em pó</li>
+        <li>Chocolate granulado para confeitar</li>
+        <li>Forminhas de papel</li>
+    </ul>
+
+    <ol>
+        <li>Em uma panela média, misture o leite condensado, a manteiga e o chocolate em pó.</li>
+        <li>Leve ao fogo baixo e mexa sem parar com uma colher de pau ou espátula de silicone.</li>
+        <li>Cozinhe até que a mistura comece a desgrudar do fundo da panela (o ponto certo é quando você passa a
+            colher e se forma um "caminho" no fundo).</li>
+        <li>Retire do fogo e despeje em um prato untado com um pouco de manteiga. Deixe esfriar completamente.</li>
+        <li>Com as mãos untadas com manteiga, faça bolinhas e passe-as no chocolate granulado.</li>
+        <li>Coloque nas forminhas de papel.</li>
+    </ol>
+
+
+
+</body>
+
+</html>
